@@ -34,6 +34,7 @@ body
     position: relative;
     background: #8d3587;
     padding: 50px;
+    min-width: 360px;
 }
 
 .profile-text
